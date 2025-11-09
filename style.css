@@ -1,0 +1,81 @@
+body {
+  font-family: "Momo Signature", cursive;
+}
+
+div {
+  background-color: rgb(237, 163, 177);
+}
+
+.title {
+  background-color: bisque;
+}
+
+.doggos {
+  background-color: cornsilk;
+}
+
+p {
+  background-color: chartreuse;
+}
+
+th {
+  background-color: yellow;
+}
+
+ol {
+  background-color: yellow;
+}
+
+#champ {
+  border: 1px solid white;
+}
+#paris {
+  border: 2px solid green;
+}
+
+#goated {
+  border: 2px solid yellow;
+}
+
+main {
+  background-color: crimson;
+}
+
+footer {
+  background-color: coral;
+}
+
+header {
+  background-color: bisque;
+}
+
+header:hover {
+  background-color: white;
+}
+
+#champ {
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: 500;
+  line-height: 30px; */
+  text-align: center; /* this is ra */
+}
+
+/* #family {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+  font-weight: 600;
+  font-style: italic;
+  line-height: 30px;
+  text-align: start;
+}
+
+#milan {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+  font-weight: 500;
+  font-style: italic;
+  line-height: 30px;
+  text-align: start;
+  background-color: rgb(rgb(225, 162, 162), green, blue);
+} */
